@@ -10,9 +10,15 @@
 
 **Telegram:** @el_yurchenko
 
+**Discord:** @iurchenkoelena
+
 **************
 
 ## About me
+
+I work as a system programmer, and my work has always been more related to administration than to programming. This has developed in me such qualities as the desire to obtain the necessary knowledge, to get to the bottom of the problem and solve the task.
+I like to learn something new and I get pleasure when I see the result of my work. All this is combined in the profession of a programmer.
+Today, I see the direction of my development in programming and will make every effort to become a first-class specialist.
 
 ## Skills
 * HTML
@@ -21,10 +27,19 @@
 * Python
 * Photoshop
 
-
 ## Code example
 
+```
+function add(a, b) {
+  return a + b;
+}
+
+let summ = add(1000, 2000);
+console.log("Сумма чисел:", summ);
+```
+
 ## Expirience
+
 
 ## Education
 
