@@ -39,7 +39,12 @@ console.log("Сумма чисел:", summ);
 ```
 
 ## Expirience
-
+* **Web app "Ladders verification"**
+   * Skills: Python (Django), HTML, CSS,  PostgreSQL
+* **Enterprize site**
+   * Skills: Bitrix, PHP, HTML, CSS
+* **Information stand App**
+   * Skills: React, HTML, CSS
 
 ## Education
 
