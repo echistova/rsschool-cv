@@ -1,13 +1,14 @@
 body {
+    min-height: 100vh;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #149BCA;
     margin: 0;
     padding: 0;
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
@@ -19,3 +20,6 @@ main {
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.menu {}
+.menu_ul {}
+.menu_link {}

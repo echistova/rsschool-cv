@@ -3,8 +3,132 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV</title>
+    <title>CV - Yurchenko Elena</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/favicon.ico" />
 </head>
 <body>
+    <header class="header">
+        <div class="header_photo">
+            <img src="assets/img/ava.png" alt="Elen Yurchenko">
+        </div>
+        <div> 
+            <h1>Yurchenko Elena</h1>
+            <h2>Systems programmer</h2>
+        </div>
+    </header>
+    <div>
+        <nav class="menu">
+            <ul class="menu_ul">
+                <li>
+                    <a href="#about" class="menu_link">About</a>
+                </li>
+                <li>
+                    <a href="#contact" class="menu_link">Contact</a>
+                </li>
+                <li>
+                    <a href="#skills" class="menu_link">Skills</a>
+                </li>
+                <li>
+                    <a href="#code" class="menu_link">Code example</a>
+                </li>                                
+                <li>
+                    <a href="#experience" class="menu_link">Experience</a>
+                </li>
+                <li>
+                    <a href="#education" class="menu_link">Education</a>
+                </li>               
+                <li>
+                    <a href="#languages" class="menu_link">Languages</a>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+    <aside>
+        <section id="education"> 
+            <h3>Education</h3>
+            <div> Francisk Scorina Gomel State University
+                <br>Faculty of Mathematics
+                <br>Institute of information technologies BSUIR
+                <br>Python. Developing Web Applications with Django
+                <br>Rs School
+                <br>JS / Front-end Pre-school RU Course (in progress...) 
+            </div>
+        </section>
+        <section id="skills">
+            <h3>Skills</h3>
+            <div>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS (Bootstrap)</li>
+                    <li>Git/GitHub</li>
+                    <li>Python</li>
+                    <li>Photoshop</li>
+                </ul>
+            </div>
+        </section>
+        <section id="languages">
+            <h3>Languages</h3>
+            <div>
+                Russian - native speaker.
+                <br> English level A2, I regularly practice reading technical documentation in English.
+            </div>
+        </section>
+        <section id="contact">
+            <h3>Contact information</h3>
+            <div>
+                <ul>
+                    <li>Phone: +29 123 45 67</li>
+                    <li>E-mail: echistova@gmail.com</li>
+                    <li>Telegram: @el_yurchenko</li>
+                    <li>Discord: @iurchenkoelena</li>
+                </ul>
+            </div>
+        </section>
+    </aside>
+    <main>
+        <section id="about">
+            <h3>About me</h3>
+            <div>I work as a system programmer, and my work has always been more related to administration than to programming. This has developed in me such qualities as the desire to obtain the necessary knowledge, to get to the bottom of the problem and solve the task.
+I like to learn something new and I get pleasure when I see the result of my work. All this is combined in the profession of a programmer.
+Today, I see the direction of my development in programming and will make every effort to become a first-class specialist.</div>
+        </section>
+        <section id="experience">
+            <h3>Experience</h3>
+            <div>
+                Web app "Ladders verification"
+                    Skills: Python (Django), HTML, CSS,  PostgreSQL
+                Enterprize site
+                    Skills: Bitrix, PHP, HTML, CSS
+                Information stand App
+                    Skills: React, HTML, CSS
+            </div>
+        </section>        
+        <section id="code">
+            <h3>Code example
+            <div>
+                <pre>
+                    <code>
+                    function add(a, b) {
+                        return a + b;
+                    }
+
+                    let summ = add(1000, 2000);
+                    console.log("Сумма чисел:", summ);
+                    </code>
+                </pre>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div><a href="https://github.com/echistova/">Yurchenko Elena</a></div>
+        <div>2025</div>
+        <div>
+            <a href="https://rs.school/courses/javascript-ru" target="_blank">
+                <img src="./assets/img/rs-school-logo.svg" alt="rs-school-logo">
+            </a>
+        </div>  
+    </footer>
 </body>
 </html>
