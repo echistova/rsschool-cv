@@ -1,2 +1,3 @@
 # rsschool-cv
-rsschool-cv repository
+https://echistova.github.io/rsschool-cv/cv
+https://echistova.github.io/rsschool-cv/
