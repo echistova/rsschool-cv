@@ -38,7 +38,7 @@ let summ = add(1000, 2000);
 console.log("Сумма чисел:", summ);
 ```
 
-## Expirience
+## Experience
 * **Web app "Ladders verification"**
    * Skills: Python (Django), HTML, CSS,  PostgreSQL
 * **Enterprize site**
